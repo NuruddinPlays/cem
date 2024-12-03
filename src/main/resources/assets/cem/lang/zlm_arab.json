@@ -1,0 +1,10 @@
+{
+    "modmenu.descriptionTranslation.cem": "ممبنرکن ڤمواتن موديل تير سواي ک دالم ڤرماٴينن سڤرتي دديفينيسيکن اوليه فاٴيل .jem دان .jpm دالم ڤيک سومبر.",
+    "config.cem.missing_dependencies": "تيدق داڤت ممواتکن سکرين کونفيݢوراسي کران کتياداٴن کبرݢنتوڠن:",
+    "config.cem.use_optifine_folder": "ݢوناکن \"assets/minecraft/optifine/cem\"؟",
+    "config.cem.use_optifine_folder.description": "اين اکن ممواتکن موديل CEM درڤد assets/minecraft/optifine/cem⹁ سڤرتي يڠ دلاکوکن اوليه optifine.",
+    "config.cem.use_new_model_creation_fix": "ݢوناکن ڤمباٴيقن ڤنچيڤتاٴن موديل؟",
+    "config.cem.use_new_model_creation_fix.description": "اين مڠهالڠ ماٴينکرف‌ت درڤد\nمڠݢرقکن بهاݢين موديل اندا\nسچارا لڠسوڠ سماس مڠانيماسيکن.\nاين مروسقکن ببراڤ موديل تتاڤي\nممبتولکن يڠ لاٴين.\nسيلا ݢوناکن جک بوليه.",
+    "config.cem.use_old_animations": "ݢوناکن ڤلقساناٴن انيماسي يڠ لبيه لاما؟",
+    "config.cem.use_old_animations.description": "اين مموليهکن تيڠکه لاکو انيماسي\nدرڤد ۏرسي CEM <=0.6.2. کامو\nموڠکين ماهو اين دتوتوڤکن."
+}

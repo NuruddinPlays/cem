@@ -1,0 +1,10 @@
+{
+    "modmenu.descriptionTranslation.cem": "Membenarkan pemuatan model tersuai ke dalam permainan seperti didefinisikan oleh fail .jem dan .jpm dalam pek sumber.",
+    "config.cem.missing_dependencies": "Tidak dapat memuatkan skrin konfigurasi kerana ketiadaan kebergantungan:",
+    "config.cem.use_optifine_folder": "Gunakan \"assets/minecraft/optifine/cem\"?",
+    "config.cem.use_optifine_folder.description": "Ini akan memuatkan model CEM daripada assets/minecraft/optifine/cem, seperti yang dilakukan oleh optifine.",
+    "config.cem.use_new_model_creation_fix": "Gunakan pembaikan penciptaan model?",
+    "config.cem.use_new_model_creation_fix.description": "Ini menghalang minecraft daripada\nmenggerakkan bahagian model anda\nsecara langsung semasa menganimasikan.\nIni merosakkan beberapa model tetapi\nmembetulkan yang lain.\nSila gunakan jika boleh.",
+    "config.cem.use_old_animations": "Gunakan pelaksanaan animasi yang lebih lama?",
+    "config.cem.use_old_animations.description": "Ini memulihkan tingkah laku animasi\ndaripada versi CEM <=0.6.2. Kamu\nmungkin mahu ini ditutupkan."
+}
